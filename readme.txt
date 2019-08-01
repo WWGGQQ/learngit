@@ -1,2 +1,2 @@
 Git is a distribute version control system
-Gist is a free software
+Git is free software distributed under the GPL.
